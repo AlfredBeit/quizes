@@ -1,2 +1,2 @@
 # quizes
- http://adv-r.had.co.nz/ quizes
+http://adv-r.had.co.nz/Functions.html
